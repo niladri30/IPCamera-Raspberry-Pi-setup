@@ -4,7 +4,7 @@ Raspberry Pi with USB cameras is an easy setup !
 
 For details about RTSP, please check https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol
 
-But problem is with the number of cameras which can be connected (I have connected maximum 4 cameras) and can stream any video. To have a fully functional wireless setup, we need IP cameras to stream video or click any images.
+But problem is with the number of USB cameras which can be connected (I have connected maximum 4 cameras) and can stream any video. To have a fully functional wireless setup, we need IP cameras to stream video or click any images.
 
 For various applications I have used RPi3 as a processing unit, like facial recognition, object detection and other setups which includes deep learning technologies. I have listed down the setup which is installed in RPi3.
 1. OpenCV3
