@@ -27,9 +27,7 @@ Code-setup:
 1. We need the rtsp url to configure the python code. To form the rtsp url you have to consider:
 
     a. Username and password for IP-camera console
-    
     b. rtsp port
-    
     c. Channel (I have taken 1)
     
   Output url:  
