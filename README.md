@@ -1,5 +1,5 @@
 # IP-Camera-Raspberry-Pi-setup
-Connect n-number of IP cameras to raspberry pi setup using RTSP (real time streaming protocol)
+Connect n-number of IP cameras to raspberry pi setup using RTSP (real time streaming protocol).
 Raspberry Pi with USB cameras is an easy setup !
 
 For details about RTSP, please check https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol
